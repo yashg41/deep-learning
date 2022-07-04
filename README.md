@@ -1,3 +1,3 @@
-# deep-learning
+# MACHINE LEARNING /DEEP LEARNING / COMPUTER VISION
 
-some of my deep learning and machine learning projects i have done in order to better understand various concepts and working of models and get a intuition to how to manage data and work with it.
+some of the projects i have done in order to better understand various concepts and working of models and get a intuition to how to manage data and work with it.
